@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wllrocha
-- 👀 Eu estou interessado em rpogramação
+- 👀 Eu estou interessado em programação
 - 🌱 Atualmente estou aprendendo linguagem JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
