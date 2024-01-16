@@ -1,6 +1,7 @@
-Olá, sou Wallace Gonçalves! 👋
+> Olá, sou Wallace Gonçalves! 👋
 
-Sobre mim
+## Sobre mim
+
 📚 Estudante do 2º período do curso de Análise e Desenvolvimento de Sistemas na UniCarioca.
 👨‍💻 Iniciante em Programação
 💼 Trabalho atualmente como Auxiliar Administrativo.
