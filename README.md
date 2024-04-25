@@ -2,7 +2,7 @@
 
 ## Sobre mim ##
 
-📚 Estudante do 2º período do curso de Análise e Desenvolvimento de Sistemas;
+📚 Estudante do 1º período do curso de Análise e Desenvolvimento de Sistemas;
 👨‍💻 Estudante de programação em busca do seu 1° emprego como desenvolvedor web;
 💼 Trabalho atualmente como Auxiliar Administrativo;
 🔧 Minhas habilidades incluem desenvolvimento web, design de banco de dados, arquitetura de software e muito mais;
